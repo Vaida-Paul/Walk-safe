@@ -1,0 +1,1864 @@
+{
+    "alerts": [
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 5,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "8b8b2eaa-ad85-4806-8b87-2f6aeab05f59",
+            "roadType": 1,
+            "magvar": 339,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "street": "Str. Paji\u0219tei",
+            "reportDescription": "Autorizatie de spargere nr. 1/2025",
+            "location": {
+                "x": 23.576363,
+                "y": 46.757836
+            },
+            "pubMillis": 1736521297000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 4,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "dfd44aff-5a88-4180-ae47-a06a02a1038d",
+            "roadType": 1,
+            "magvar": 335,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "street": "Str. Sitarilor",
+            "reportDescription": "Autorizatie de spargere nr. 1/2025",
+            "location": {
+                "x": 23.561839,
+                "y": 46.791857
+            },
+            "pubMillis": 1736521298000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 5,
+            "reportByMunicipalityUser": "false",
+            "confidence": 2,
+            "reliability": 10,
+            "type": "ROAD_CLOSED",
+            "uuid": "2e68a82b-4894-4e46-a29c-f5b9c7fb5ddc",
+            "roadType": 1,
+            "magvar": 243,
+            "subtype": "ROAD_CLOSED_EVENT",
+            "street": "Str. V\u00e2ntului",
+            "reportDescription": "",
+            "location": {
+                "x": 23.568156,
+                "y": 46.777539
+            },
+            "pubMillis": 1733221087000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 5,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "dc95f6c0-ed73-4885-824f-a572a0397258",
+            "roadType": 1,
+            "magvar": 221,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "street": "Str. Dimitrie Bolintineanu",
+            "reportDescription": "Autorizatie de spargere nr. 2/2025",
+            "location": {
+                "x": 23.599375,
+                "y": 46.761769
+            },
+            "pubMillis": 1736521298000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 5,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "7d538944-c17d-472c-bbbb-2d1201b672e1",
+            "roadType": 1,
+            "magvar": 71,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "street": "Str. Stelu\u021bei",
+            "reportDescription": "Autorizatie de spargere nr. 10/2025",
+            "location": {
+                "x": 23.589498,
+                "y": 46.787818
+            },
+            "pubMillis": 1736521299000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 1,
+            "reportByMunicipalityUser": "false",
+            "confidence": 5,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "0d1a34ba-697f-4a25-bd37-d66d33a650d7",
+            "roadType": 2,
+            "magvar": 194,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "street": "Str. M\u0103ce\u0219ului",
+            "location": {
+                "x": 23.606919,
+                "y": 46.746145
+            },
+            "pubMillis": 1736764381000
+        },
+        {
+            "country": "RO",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 5,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "30764a24-7a08-49c2-afe6-90d749c4a29e",
+            "roadType": 2,
+            "magvar": 337,
+            "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+            "street": "DC153",
+            "location": {
+                "x": 23.718627,
+                "y": 46.794655
+            },
+            "pubMillis": 1736767416000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 5,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "974df994-7aef-41fb-80b3-1b3486466415",
+            "roadType": 2,
+            "magvar": 233,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "street": "Str. F\u00e2nt\u00e2nele",
+            "reportDescription": "Autorizatie de spargere nr. 1/2025",
+            "location": {
+                "x": 23.553708,
+                "y": 46.76885
+            },
+            "pubMillis": 1736521298000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 5,
+            "reportByMunicipalityUser": "false",
+            "confidence": 4,
+            "reliability": 10,
+            "type": "ROAD_CLOSED",
+            "uuid": "c3899e3f-38a6-43d6-84e2-e5b4f4786f50",
+            "roadType": 2,
+            "magvar": 142,
+            "subtype": "ROAD_CLOSED_EVENT",
+            "street": "Str. Sigismund Todu\u021b\u0103",
+            "reportDescription": "",
+            "location": {
+                "x": 23.567303,
+                "y": 46.770481
+            },
+            "pubMillis": 1733742365000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 3,
+            "reportByMunicipalityUser": "false",
+            "confidence": 2,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "2fd48165-f63b-43d8-9fac-ce2533c6e48c",
+            "roadType": 1,
+            "magvar": 9,
+            "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+            "street": "Str. Tractori\u0219tilor",
+            "location": {
+                "x": 23.659402,
+                "y": 46.784952
+            },
+            "pubMillis": 1736776276000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 5,
+            "reportByMunicipalityUser": "false",
+            "confidence": 2,
+            "reliability": 10,
+            "type": "ROAD_CLOSED",
+            "uuid": "1a525a42-4bef-4ba4-948f-30f50339939c",
+            "roadType": 2,
+            "magvar": 333,
+            "subtype": "ROAD_CLOSED_EVENT",
+            "street": "Str. Sigismund Todu\u021b\u0103",
+            "reportDescription": "",
+            "location": {
+                "x": 23.567303,
+                "y": 46.770481
+            },
+            "pubMillis": 1733745613000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 2,
+            "reportByMunicipalityUser": "false",
+            "confidence": 0,
+            "reliability": 6,
+            "type": "HAZARD",
+            "uuid": "44774345-5d91-4639-b5a1-3e11f4cd57c5",
+            "roadType": 2,
+            "magvar": 359,
+            "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+            "street": "Str. Fabricii de zah\u0103r",
+            "location": {
+                "x": 23.620765,
+                "y": 46.78259
+            },
+            "pubMillis": 1736495165000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 1,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "c8f79fcc-266b-43c4-ba39-07a3f72f7244",
+            "roadType": 20,
+            "magvar": 101,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "reportDescription": "Autorizatie de spargere nr. 12/2025",
+            "location": {
+                "x": 23.561608,
+                "y": 46.75583
+            },
+            "pubMillis": 1736521299000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 1,
+            "reliability": 9,
+            "type": "HAZARD",
+            "uuid": "170b0e59-7f0e-46d5-b1b8-44c1a34a9d0a",
+            "roadType": 1,
+            "magvar": 148,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "street": "Str. Rubinului",
+            "reportDescription": "Autorizatie de spargere nr. 1/2025",
+            "location": {
+                "x": 23.569695,
+                "y": 46.796848
+            },
+            "pubMillis": 1736521298000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 2,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "604e3b10-24c8-4699-b27f-01820d8edfd4",
+            "roadType": 17,
+            "magvar": 210,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "street": "Aleea Tisa",
+            "reportDescription": "Autorizatie de spargere nr. 3/2025",
+            "location": {
+                "x": 23.620592,
+                "y": 46.751827
+            },
+            "pubMillis": 1736521298000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 3,
+            "reportByMunicipalityUser": "false",
+            "confidence": 5,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "6e386900-778c-463c-9328-8f316f74bbd7",
+            "roadType": 2,
+            "magvar": 303,
+            "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+            "street": "Str. R\u0103va\u0219ului",
+            "location": {
+                "x": 23.55014,
+                "y": 46.754056
+            },
+            "pubMillis": 1736779745000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 5,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "38e6f458-cf25-42f6-b119-63158a636173",
+            "roadType": 1,
+            "magvar": 89,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "street": "Str. Grigore Moisil",
+            "reportDescription": "Autorizatie de spargere nr. 14/2025",
+            "location": {
+                "x": 23.58891,
+                "y": 46.747115
+            },
+            "pubMillis": 1736521299000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 5,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "23747feb-50d9-4a1a-a786-d604b4ba3603",
+            "roadType": 7,
+            "magvar": 216,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "street": "Str. T\u0103ietura Turcului",
+            "reportDescription": "Autorizatie de spargere nr. 10/2025",
+            "location": {
+                "x": 23.561794,
+                "y": 46.780617
+            },
+            "pubMillis": 1736521298000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 5,
+            "reportByMunicipalityUser": "false",
+            "confidence": 5,
+            "reliability": 10,
+            "type": "ROAD_CLOSED",
+            "uuid": "d9665f19-7dc7-424a-8907-fef638abafd2",
+            "roadType": 2,
+            "magvar": 322,
+            "subtype": "ROAD_CLOSED_EVENT",
+            "street": "Str. Sigismund Todu\u021b\u0103",
+            "reportDescription": "",
+            "location": {
+                "x": 23.568502,
+                "y": 46.769427
+            },
+            "pubMillis": 1733742365000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 0,
+            "reliability": 8,
+            "type": "HAZARD",
+            "uuid": "bf0660d4-81c9-4fd0-931c-b84db68ea8d8",
+            "roadType": 2,
+            "magvar": 4,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "street": "Str. Emil Cioran",
+            "reportDescription": "Autorizatie de spargere nr. 15/2025",
+            "location": {
+                "x": 23.558673,
+                "y": 46.757426
+            },
+            "pubMillis": 1736780497000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 5,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "4f0ad2c6-93af-4af3-b539-a79deb2c5477",
+            "roadType": 2,
+            "magvar": 309,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "street": "Str. Spicului",
+            "reportDescription": "Autorizatie de spargere nr. 8/2025",
+            "location": {
+                "x": 23.571917,
+                "y": 46.7912
+            },
+            "pubMillis": 1736521298000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 0,
+            "reliability": 6,
+            "type": "HAZARD",
+            "uuid": "7fe6de24-4ae9-4429-a8fb-c06a4bfda5b3",
+            "roadType": 1,
+            "magvar": 287,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "street": "Str. Iancu Jianu",
+            "reportDescription": "Autorizatie de spargere nr. 11/2025",
+            "location": {
+                "x": 23.5518,
+                "y": 46.7862
+            },
+            "pubMillis": 1736521299000
+        },
+        {
+            "country": "RO",
+            "city": "Flore\u0219ti",
+            "reportRating": 3,
+            "reportByMunicipalityUser": "false",
+            "confidence": 0,
+            "reliability": 5,
+            "type": "JAM",
+            "uuid": "62034d8d-ed2d-407d-bfd4-5d818b38911a",
+            "roadType": 6,
+            "magvar": 250,
+            "subtype": "JAM_HEAVY_TRAFFIC",
+            "street": "DN1 - Str. Avram Iancu",
+            "location": {
+                "x": 23.500657,
+                "y": 46.746575
+            },
+            "pubMillis": 1736791283000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 0,
+            "reliability": 7,
+            "type": "HAZARD",
+            "uuid": "4564c445-f473-4375-bb37-774f2ac461c0",
+            "roadType": 1,
+            "magvar": 162,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "street": "Aleea Marin Preda",
+            "reportDescription": "Autorizatie de spargere nr. 16/2025",
+            "location": {
+                "x": 23.597235,
+                "y": 46.747452
+            },
+            "pubMillis": 1736780497000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 5,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "b3c30072-4049-4568-a7be-48f30161bd8c",
+            "roadType": 1,
+            "magvar": 124,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "street": "Str. Nicolae Iorga",
+            "reportDescription": "Autorizatie de spargere nr. 2/2025",
+            "location": {
+                "x": 23.599801,
+                "y": 46.762723
+            },
+            "pubMillis": 1736521298000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 5,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "b77fe249-0071-4849-83d0-2c11279c4445",
+            "roadType": 2,
+            "magvar": 266,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "street": "Str. Bucegi",
+            "reportDescription": "Autorizatie de spargere nr. 15/2025",
+            "location": {
+                "x": 23.558711,
+                "y": 46.75442
+            },
+            "pubMillis": 1736780497000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 4,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "dd52c865-e599-452e-a311-2e0e7d801d70",
+            "roadType": 2,
+            "magvar": 221,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "street": "Str. Iosif Vulcan",
+            "reportDescription": "Autorizatie de spargere nr. 17/2025",
+            "location": {
+                "x": 23.601166,
+                "y": 46.760799
+            },
+            "pubMillis": 1736780497000
+        },
+        {
+            "country": "RO",
+            "reportRating": 2,
+            "reportByMunicipalityUser": "false",
+            "confidence": 5,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "265de904-b500-4543-a01a-2b70200d4d2e",
+            "roadType": 6,
+            "magvar": 319,
+            "subtype": "HAZARD_ON_SHOULDER_CAR_STOPPED",
+            "street": "DN1N - Centura Cluj",
+            "location": {
+                "x": 23.696871,
+                "y": 46.757972
+            },
+            "pubMillis": 1736786513000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 5,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "0a08c6e0-7868-431d-be71-f3b522fc7d16",
+            "roadType": 7,
+            "magvar": 140,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "street": "Drumul Sf\u00e2ntul Ion",
+            "reportDescription": "Autorizatie de spargere nr. 16/2025",
+            "location": {
+                "x": 23.535335,
+                "y": 46.742206
+            },
+            "pubMillis": 1736780497000
+        },
+        {
+            "country": "RO",
+            "city": "Dezmir",
+            "reportRating": 3,
+            "reportByMunicipalityUser": "false",
+            "confidence": 5,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "cc356410-685a-4d50-9c7b-368907f51a81",
+            "roadType": 2,
+            "magvar": 155,
+            "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+            "street": "Str. Trandafirilor",
+            "location": {
+                "x": 23.707254,
+                "y": 46.775303
+            },
+            "pubMillis": 1736758643000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 2,
+            "reportByMunicipalityUser": "false",
+            "confidence": 2,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "fe875659-9996-4aa4-b9bf-518118e22460",
+            "roadType": 7,
+            "magvar": 359,
+            "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+            "street": "Str. Ion Popescu Voite\u015fti",
+            "location": {
+                "x": 23.59199,
+                "y": 46.77438
+            },
+            "pubMillis": 1736434653000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 3,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "5804a4f5-6681-4614-b55b-119fb5a26b20",
+            "roadType": 1,
+            "magvar": 105,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "street": "Str. Orzului",
+            "reportDescription": "Autorizatie de spargere nr. 11/2025",
+            "location": {
+                "x": 23.553179,
+                "y": 46.786535
+            },
+            "pubMillis": 1736521299000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 4,
+            "reportByMunicipalityUser": "false",
+            "confidence": 4,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "4de914ec-1d98-40c7-82c4-ed15a2ddb158",
+            "roadType": 7,
+            "magvar": 202,
+            "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+            "street": "Str. T\u0103ietura Turcului",
+            "location": {
+                "x": 23.561777,
+                "y": 46.780588
+            },
+            "pubMillis": 1736512243000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 0,
+            "reliability": 7,
+            "type": "HAZARD",
+            "uuid": "3f627a05-4f8a-4c31-a70b-428991a55ebf",
+            "roadType": 1,
+            "magvar": 89,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "street": "Aleea Godeanu",
+            "reportDescription": "Autorizatie de spargere nr. 15/2025",
+            "location": {
+                "x": 23.616398,
+                "y": 46.770083
+            },
+            "pubMillis": 1736780497000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 0,
+            "reliability": 6,
+            "type": "HAZARD",
+            "uuid": "3a5400cd-c828-4897-8dbe-c9e9caa37f5f",
+            "roadType": 17,
+            "magvar": 313,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "reportDescription": "Autorizatie de spargere nr. 13/2025",
+            "location": {
+                "x": 23.637257,
+                "y": 46.786476
+            },
+            "pubMillis": 1736521299000
+        },
+        {
+            "country": "RO",
+            "city": "Flore\u0219ti",
+            "reportRating": 1,
+            "reportByMunicipalityUser": "false",
+            "confidence": 5,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "e8984d71-f6b9-4a94-9ffc-983239d4e3ce",
+            "roadType": 1,
+            "magvar": 161,
+            "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+            "street": "Str. Avram Iancu",
+            "location": {
+                "x": 23.52022,
+                "y": 46.746912
+            },
+            "pubMillis": 1736719195000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 5,
+            "reportByMunicipalityUser": "false",
+            "confidence": 2,
+            "reliability": 10,
+            "type": "ROAD_CLOSED",
+            "uuid": "5f7e3bfe-b217-41a2-b1e8-c2e21f0186e9",
+            "roadType": 1,
+            "magvar": 63,
+            "subtype": "ROAD_CLOSED_EVENT",
+            "street": "Str. V\u00e2ntului",
+            "reportDescription": "",
+            "location": {
+                "x": 23.56709,
+                "y": 46.777169
+            },
+            "pubMillis": 1733221087000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 3,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "9d82d8e3-64d4-4ff0-8e45-9c3130f76b11",
+            "roadType": 1,
+            "magvar": 335,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "street": "Str. Sitarilor",
+            "reportDescription": "Autorizatie de spargere nr. 1/2025",
+            "location": {
+                "x": 23.561805,
+                "y": 46.791907
+            },
+            "pubMillis": 1736521297000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 2,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "c6fd0e58-945c-4e56-a714-f4f6de7d6f61",
+            "roadType": 22,
+            "magvar": 129,
+            "subtype": "HAZARD_ON_ROAD_CONSTRUCTION",
+            "reportDescription": "Autorizatie de spargere nr. 12/2025",
+            "location": {
+                "x": 23.545148,
+                "y": 46.754395
+            },
+            "pubMillis": 1736521299000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 1,
+            "reportByMunicipalityUser": "false",
+            "confidence": 3,
+            "reliability": 10,
+            "type": "HAZARD",
+            "uuid": "0f57b36e-c12a-4d7b-83bb-72f902e4b81c",
+            "roadType": 2,
+            "magvar": 359,
+            "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+            "street": "Str. Par\u00e2ng",
+            "location": {
+                "x": 23.553047,
+                "y": 46.753937
+            },
+            "pubMillis": 1735850272000
+        },
+        {
+            "country": "RO",
+            "city": "Cluj-Napoca",
+            "reportRating": 0,
+            "reportByMunicipalityUser": "false",
+            "confidence": 2,
+            "reliability": 9,
+            "type": "HAZARD",
+            "uuid": "10320493-06e5-473d-a4ca-f60060b17703",
+            "roadType": 1,
+            "magvar": 359,
+            "subtype": "HAZARD_ON_ROAD_POT_HOLE",
+            "street": "Str. Pastorului",
+            "location": {
+                "x": 23.577592,
+                "y": 46.762764
+            },
+            "pubMillis": 1736696720000
+        }
+    ],
+    "endTimeMillis": 1736791980000,
+    "irregularities": [
+        {
+            "country": "RO",
+            "nThumbsUp": 0,
+            "updateDate": "Mon Jan 13 18:13:32 +0000 2025",
+            "trend": 0,
+            "city": "Flore\u0219ti",
+            "line": [
+                {
+                    "x": 23.532915,
+                    "y": 46.753553
+                },
+                {
+                    "x": 23.532727,
+                    "y": 46.75354
+                },
+                {
+                    "x": 23.5325,
+                    "y": 46.753525
+                },
+                {
+                    "x": 23.532268,
+                    "y": 46.753509
+                },
+                {
+                    "x": 23.532052,
+                    "y": 46.753489
+                },
+                {
+                    "x": 23.532165,
+                    "y": 46.752585
+                },
+                {
+                    "x": 23.532333,
+                    "y": 46.751636
+                },
+                {
+                    "x": 23.532219,
+                    "y": 46.751483
+                },
+                {
+                    "x": 23.532097,
+                    "y": 46.75134
+                },
+                {
+                    "x": 23.531978,
+                    "y": 46.7512
+                },
+                {
+                    "x": 23.53185,
+                    "y": 46.751038
+                },
+                {
+                    "x": 23.531736,
+                    "y": 46.750899
+                },
+                {
+                    "x": 23.531622,
+                    "y": 46.750768
+                },
+                {
+                    "x": 23.531516,
+                    "y": 46.750631
+                },
+                {
+                    "x": 23.531345,
+                    "y": 46.75046
+                },
+                {
+                    "x": 23.531502,
+                    "y": 46.75034
+                },
+                {
+                    "x": 23.531673,
+                    "y": 46.750214
+                },
+                {
+                    "x": 23.531831,
+                    "y": 46.750094
+                },
+                {
+                    "x": 23.531945,
+                    "y": 46.750008
+                },
+                {
+                    "x": 23.532085,
+                    "y": 46.750071
+                },
+                {
+                    "x": 23.532172,
+                    "y": 46.750189
+                }
+            ],
+            "detectionDateMillis": 1736791849886,
+            "type": "MEDIUM",
+            "speed": 2.26,
+            "seconds": 825,
+            "street": "",
+            "jamLevel": 4,
+            "id": 1713138700,
+            "nComments": 0,
+            "highway": false,
+            "delaySeconds": 708,
+            "severity": 5,
+            "driversCount": 40,
+            "alertsCount": 0,
+            "length": 518,
+            "updateDateMillis": 1736792012389,
+            "nImages": 0,
+            "alerts": [],
+            "detectionDate": "Mon Jan 13 18:10:49 +0000 2025",
+            "regularSpeed": 17.33
+        }
+    ],
+    "startTimeMillis": 1736791920000,
+    "startTime": "2025-01-13 18:12:00:000",
+    "endTime": "2025-01-13 18:13:00:000",
+    "jams": [
+        {
+            "country": "RO",
+            "level": 4,
+            "city": "Flore\u0219ti",
+            "line": [
+                {
+                    "x": 23.532915,
+                    "y": 46.753553
+                },
+                {
+                    "x": 23.532727,
+                    "y": 46.75354
+                },
+                {
+                    "x": 23.5325,
+                    "y": 46.753525
+                },
+                {
+                    "x": 23.532268,
+                    "y": 46.753509
+                },
+                {
+                    "x": 23.532052,
+                    "y": 46.753489
+                },
+                {
+                    "x": 23.532165,
+                    "y": 46.752585
+                },
+                {
+                    "x": 23.532333,
+                    "y": 46.751636
+                },
+                {
+                    "x": 23.532219,
+                    "y": 46.751483
+                },
+                {
+                    "x": 23.532097,
+                    "y": 46.75134
+                },
+                {
+                    "x": 23.531978,
+                    "y": 46.7512
+                },
+                {
+                    "x": 23.53185,
+                    "y": 46.751038
+                },
+                {
+                    "x": 23.531736,
+                    "y": 46.750899
+                },
+                {
+                    "x": 23.531622,
+                    "y": 46.750768
+                },
+                {
+                    "x": 23.531516,
+                    "y": 46.750631
+                },
+                {
+                    "x": 23.531345,
+                    "y": 46.75046
+                },
+                {
+                    "x": 23.531502,
+                    "y": 46.75034
+                },
+                {
+                    "x": 23.531673,
+                    "y": 46.750214
+                },
+                {
+                    "x": 23.531831,
+                    "y": 46.750094
+                },
+                {
+                    "x": 23.531945,
+                    "y": 46.750008
+                },
+                {
+                    "x": 23.532085,
+                    "y": 46.750071
+                },
+                {
+                    "x": 23.532172,
+                    "y": 46.750189
+                }
+            ],
+            "speedKMH": 2.26,
+            "length": 518,
+            "turnType": "NONE",
+            "uuid": 1713138700,
+            "speed": 0.6277777777777778,
+            "segments": [
+                {
+                    "fromNode": 153646543,
+                    "ID": 320454977,
+                    "toNode": 258892124,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 258892124,
+                    "ID": 320454976,
+                    "toNode": 258892123,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 258892123,
+                    "ID": 320454973,
+                    "toNode": 206948070,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 206948070,
+                    "ID": 320455034,
+                    "toNode": 258892153,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 258892153,
+                    "ID": 320455032,
+                    "toNode": 258892152,
+                    "isForward": true
+                },
+                {
+                    "fromNode": 258892152,
+                    "ID": 320455029,
+                    "toNode": 206873588,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 206873588,
+                    "ID": 261777060,
+                    "toNode": 206875245,
+                    "isForward": true
+                },
+                {
+                    "fromNode": 206875245,
+                    "ID": 326968672,
+                    "toNode": 262921394,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 262921394,
+                    "ID": 326968671,
+                    "toNode": 262921392,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 262921392,
+                    "ID": 326968669,
+                    "toNode": 262921287,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 262921287,
+                    "ID": 326968482,
+                    "toNode": 262921283,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 262921283,
+                    "ID": 326968478,
+                    "toNode": 262921281,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 262921281,
+                    "ID": 326968476,
+                    "toNode": 206875715,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 206875715,
+                    "ID": 241660540,
+                    "toNode": 218828533,
+                    "isForward": true
+                },
+                {
+                    "fromNode": 218828533,
+                    "ID": 320454960,
+                    "toNode": 258892118,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 258892118,
+                    "ID": 320454959,
+                    "toNode": 258891989,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 258891989,
+                    "ID": 320454875,
+                    "toNode": 258892063,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 258892063,
+                    "ID": 320454874,
+                    "toNode": 174881393,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 174881393,
+                    "ID": 386015238,
+                    "toNode": 300645505,
+                    "isForward": true
+                }
+            ],
+            "roadType": 1,
+            "delay": 708,
+            "street": "",
+            "id": 1713138700,
+            "pubMillis": 1736791849886
+        },
+        {
+            "country": "RO",
+            "level": 4,
+            "city": "Cluj-Napoca",
+            "line": [
+                {
+                    "x": 23.550684,
+                    "y": 46.756492
+                },
+                {
+                    "x": 23.550233,
+                    "y": 46.756392
+                },
+                {
+                    "x": 23.549165,
+                    "y": 46.756154
+                },
+                {
+                    "x": 23.548486,
+                    "y": 46.756001
+                }
+            ],
+            "speedKMH": 4.91,
+            "length": 177,
+            "turnType": "NONE",
+            "uuid": 1713424562,
+            "endNode": "Str. R\u0103va\u0219ului",
+            "speed": 1.363888888888889,
+            "segments": [
+                {
+                    "fromNode": 162816245,
+                    "ID": 255278854,
+                    "toNode": 215398775,
+                    "isForward": true
+                },
+                {
+                    "fromNode": 215398775,
+                    "ID": 255278866,
+                    "toNode": 215398792,
+                    "isForward": true
+                },
+                {
+                    "fromNode": 215398792,
+                    "ID": 255278867,
+                    "toNode": 148722409,
+                    "isForward": true
+                }
+            ],
+            "roadType": 2,
+            "delay": 108,
+            "street": "Str. Grigore Alexandrescu",
+            "id": 1713424562,
+            "pubMillis": 1736792015513
+        },
+        {
+            "country": "RO",
+            "level": 4,
+            "city": "Apahida",
+            "line": [
+                {
+                    "x": 23.752269,
+                    "y": 46.804262
+                },
+                {
+                    "x": 23.75342,
+                    "y": 46.802049
+                },
+                {
+                    "x": 23.753638,
+                    "y": 46.801635
+                },
+                {
+                    "x": 23.753724,
+                    "y": 46.80146
+                },
+                {
+                    "x": 23.754319,
+                    "y": 46.800241
+                },
+                {
+                    "x": 23.754391,
+                    "y": 46.80001
+                },
+                {
+                    "x": 23.754389,
+                    "y": 46.799888
+                }
+            ],
+            "speedKMH": 9.08,
+            "length": 514,
+            "turnType": "NONE",
+            "uuid": 1713416820,
+            "endNode": "",
+            "speed": 2.522222222222222,
+            "segments": [
+                {
+                    "fromNode": 251924543,
+                    "ID": 309641857,
+                    "toNode": 177499943,
+                    "isForward": true
+                },
+                {
+                    "fromNode": 177499943,
+                    "ID": 309639533,
+                    "toNode": 251923285,
+                    "isForward": true
+                },
+                {
+                    "fromNode": 251923285,
+                    "ID": 448993350,
+                    "toNode": 341927551,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 341927551,
+                    "ID": 448993349,
+                    "toNode": 162224521,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 162224521,
+                    "ID": 320853590,
+                    "toNode": 259142748,
+                    "isForward": false
+                }
+            ],
+            "roadType": 6,
+            "delay": 168,
+            "street": "DN1C - Str. Libert\u0103\u021bii",
+            "id": 1713416820,
+            "pubMillis": 1736792014938
+        },
+        {
+            "country": "RO",
+            "level": 4,
+            "city": "Cluj-Napoca",
+            "line": [
+                {
+                    "x": 23.61972,
+                    "y": 46.776685
+                },
+                {
+                    "x": 23.619897,
+                    "y": 46.776435
+                },
+                {
+                    "x": 23.62034,
+                    "y": 46.775179
+                },
+                {
+                    "x": 23.620357,
+                    "y": 46.775125
+                }
+            ],
+            "speedKMH": 3.07,
+            "length": 181,
+            "turnType": "NONE",
+            "uuid": 1713467428,
+            "speed": 0.8527777777777777,
+            "segments": [
+                {
+                    "fromNode": 155146147,
+                    "ID": 317771775,
+                    "toNode": 162318855,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 162318855,
+                    "ID": 255137003,
+                    "toNode": 215303698,
+                    "isForward": false
+                }
+            ],
+            "roadType": 1,
+            "delay": 182,
+            "street": "Str. Alexandru Vaida Voevod",
+            "id": 1713467428,
+            "pubMillis": 1736792019387
+        },
+        {
+            "country": "RO",
+            "level": 5,
+            "city": "Cluj-Napoca",
+            "line": [
+                {
+                    "x": 23.568502,
+                    "y": 46.769427
+                },
+                {
+                    "x": 23.567303,
+                    "y": 46.770481
+                }
+            ],
+            "speedKMH": 0,
+            "length": 149,
+            "turnType": "NONE",
+            "uuid": 134870814,
+            "endNode": "Pia\u021ba 14 Iulie",
+            "speed": 0,
+            "segments": [
+                {
+                    "fromNode": 109074036,
+                    "ID": 161053000,
+                    "toNode": 162438513,
+                    "isForward": true
+                }
+            ],
+            "blockingAlertUuid": "d9665f19-7dc7-424a-8907-fef638abafd2",
+            "roadType": 2,
+            "delay": -1,
+            "street": "Str. Sigismund Todu\u021b\u0103",
+            "id": 134870814,
+            "pubMillis": 1733829725892
+        },
+        {
+            "country": "RO",
+            "level": 5,
+            "city": "Cluj-Napoca",
+            "line": [
+                {
+                    "x": 23.567303,
+                    "y": 46.770481
+                },
+                {
+                    "x": 23.567025,
+                    "y": 46.770857
+                }
+            ],
+            "speedKMH": 0,
+            "length": 47,
+            "turnType": "NONE",
+            "uuid": 1661671580,
+            "endNode": "Str. Octavian Goga",
+            "speed": 0,
+            "segments": [
+                {
+                    "fromNode": 162438513,
+                    "ID": 161053001,
+                    "toNode": 162227753,
+                    "isForward": true
+                }
+            ],
+            "blockingAlertUuid": "1a525a42-4bef-4ba4-948f-30f50339939c",
+            "roadType": 2,
+            "delay": -1,
+            "street": "Str. Sigismund Todu\u021b\u0103",
+            "id": 1661671580,
+            "pubMillis": 1736766477972
+        },
+        {
+            "country": "RO",
+            "level": 2,
+            "city": "Flore\u0219ti",
+            "line": [
+                {
+                    "x": 23.509164,
+                    "y": 46.748584
+                },
+                {
+                    "x": 23.506068,
+                    "y": 46.747853
+                },
+                {
+                    "x": 23.505142,
+                    "y": 46.747634
+                },
+                {
+                    "x": 23.503713,
+                    "y": 46.747296
+                },
+                {
+                    "x": 23.503212,
+                    "y": 46.747178
+                },
+                {
+                    "x": 23.498947,
+                    "y": 46.746171
+                },
+                {
+                    "x": 23.49832,
+                    "y": 46.746008
+                },
+                {
+                    "x": 23.498193,
+                    "y": 46.745978
+                },
+                {
+                    "x": 23.497849,
+                    "y": 46.74589
+                },
+                {
+                    "x": 23.497045,
+                    "y": 46.745695
+                },
+                {
+                    "x": 23.495792,
+                    "y": 46.745398
+                },
+                {
+                    "x": 23.49514,
+                    "y": 46.745281
+                }
+            ],
+            "speedKMH": 31.7,
+            "length": 1133,
+            "turnType": "NONE",
+            "uuid": 1712069812,
+            "endNode": "Str. Cet\u0103\u021bii",
+            "speed": 8.805555555555555,
+            "segments": [
+                {
+                    "fromNode": 339976672,
+                    "ID": 445917917,
+                    "toNode": 162928236,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 162928236,
+                    "ID": 323644772,
+                    "toNode": 175474490,
+                    "isForward": true
+                },
+                {
+                    "fromNode": 175474490,
+                    "ID": 431733951,
+                    "toNode": 330695800,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 330695800,
+                    "ID": 431733950,
+                    "toNode": 188235839,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 188235839,
+                    "ID": 323644796,
+                    "toNode": 162928461,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 162928461,
+                    "ID": 430476311,
+                    "toNode": 329863056,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 329863056,
+                    "ID": 430476310,
+                    "toNode": 162453996,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 162453996,
+                    "ID": 379313235,
+                    "toNode": 295111134,
+                    "isForward": true
+                },
+                {
+                    "fromNode": 295111134,
+                    "ID": 379313237,
+                    "toNode": 162928350,
+                    "isForward": true
+                },
+                {
+                    "fromNode": 162928350,
+                    "ID": 323644814,
+                    "toNode": 162928393,
+                    "isForward": false
+                }
+            ],
+            "roadType": 6,
+            "delay": 67,
+            "street": "DN1 - Str. Avram Iancu",
+            "id": 1712069812,
+            "pubMillis": 1736791167762
+        },
+        {
+            "country": "RO",
+            "level": 5,
+            "city": "Cluj-Napoca",
+            "line": [
+                {
+                    "x": 23.568156,
+                    "y": 46.777539
+                },
+                {
+                    "x": 23.567986,
+                    "y": 46.777496
+                },
+                {
+                    "x": 23.567873,
+                    "y": 46.777433
+                },
+                {
+                    "x": 23.567777,
+                    "y": 46.777327
+                },
+                {
+                    "x": 23.567616,
+                    "y": 46.777268
+                },
+                {
+                    "x": 23.567256,
+                    "y": 46.777169
+                },
+                {
+                    "x": 23.56709,
+                    "y": 46.777169
+                }
+            ],
+            "speedKMH": 0,
+            "length": 95,
+            "turnType": "NONE",
+            "uuid": 202748940,
+            "speed": 0,
+            "segments": [
+                {
+                    "fromNode": 254978076,
+                    "ID": 359020723,
+                    "toNode": 283155682,
+                    "isForward": true
+                }
+            ],
+            "blockingAlertUuid": "2e68a82b-4894-4e46-a29c-f5b9c7fb5ddc",
+            "roadType": 1,
+            "delay": -1,
+            "street": "Str. V\u00e2ntului",
+            "id": 202748940,
+            "pubMillis": 1733986982638
+        },
+        {
+            "country": "RO",
+            "level": 4,
+            "city": "Cluj-Napoca",
+            "line": [
+                {
+                    "x": 23.574451,
+                    "y": 46.765858
+                },
+                {
+                    "x": 23.573968,
+                    "y": 46.766516
+                },
+                {
+                    "x": 23.573971,
+                    "y": 46.766597
+                },
+                {
+                    "x": 23.574016,
+                    "y": 46.766641
+                },
+                {
+                    "x": 23.574834,
+                    "y": 46.766855
+                }
+            ],
+            "speedKMH": 0.52,
+            "length": 164,
+            "turnType": "NONE",
+            "uuid": 1713106768,
+            "endNode": "Str. George Co\u0219buc",
+            "speed": 0.14444444444444443,
+            "segments": [
+                {
+                    "fromNode": 186210858,
+                    "ID": 311961096,
+                    "toNode": 253384690,
+                    "isForward": true
+                }
+            ],
+            "roadType": 2,
+            "delay": 1107,
+            "street": "Str. Deva",
+            "id": 1713106768,
+            "pubMillis": 1736791846668
+        },
+        {
+            "country": "RO",
+            "level": 5,
+            "city": "Cluj-Napoca",
+            "line": [
+                {
+                    "x": 23.56709,
+                    "y": 46.777169
+                },
+                {
+                    "x": 23.567256,
+                    "y": 46.777169
+                },
+                {
+                    "x": 23.567616,
+                    "y": 46.777268
+                },
+                {
+                    "x": 23.567777,
+                    "y": 46.777327
+                },
+                {
+                    "x": 23.567873,
+                    "y": 46.777433
+                },
+                {
+                    "x": 23.567986,
+                    "y": 46.777496
+                },
+                {
+                    "x": 23.568156,
+                    "y": 46.777539
+                }
+            ],
+            "speedKMH": 0,
+            "length": 95,
+            "turnType": "NONE",
+            "uuid": 1073908862,
+            "endNode": "Str. Molidului",
+            "speed": 0,
+            "segments": [
+                {
+                    "fromNode": 283155682,
+                    "ID": 359020723,
+                    "toNode": 254978076,
+                    "isForward": false
+                }
+            ],
+            "blockingAlertUuid": "5f7e3bfe-b217-41a2-b1e8-c2e21f0186e9",
+            "roadType": 1,
+            "delay": -1,
+            "street": "Str. V\u00e2ntului",
+            "id": 1073908862,
+            "pubMillis": 1736242804478
+        },
+        {
+            "country": "RO",
+            "level": 3,
+            "city": "Cluj-Napoca",
+            "line": [
+                {
+                    "x": 23.595218,
+                    "y": 46.747548
+                },
+                {
+                    "x": 23.596017,
+                    "y": 46.747754
+                },
+                {
+                    "x": 23.596142,
+                    "y": 46.747782
+                },
+                {
+                    "x": 23.59643,
+                    "y": 46.747847
+                },
+                {
+                    "x": 23.596922,
+                    "y": 46.747959
+                },
+                {
+                    "x": 23.597595,
+                    "y": 46.748101
+                },
+                {
+                    "x": 23.597814,
+                    "y": 46.748148
+                },
+                {
+                    "x": 23.598475,
+                    "y": 46.748309
+                },
+                {
+                    "x": 23.599085,
+                    "y": 46.748458
+                },
+                {
+                    "x": 23.599473,
+                    "y": 46.748547
+                },
+                {
+                    "x": 23.600106,
+                    "y": 46.748695
+                },
+                {
+                    "x": 23.600406,
+                    "y": 46.748765
+                },
+                {
+                    "x": 23.600275,
+                    "y": 46.749332
+                },
+                {
+                    "x": 23.599625,
+                    "y": 46.751836
+                }
+            ],
+            "speedKMH": 9.71,
+            "length": 766,
+            "turnType": "NONE",
+            "uuid": 1713142208,
+            "endNode": "Str. Wolfgang Amadeus Mozart",
+            "speed": 2.6972222222222224,
+            "segments": [
+                {
+                    "fromNode": 331281723,
+                    "ID": 432564456,
+                    "toNode": 163120498,
+                    "isForward": true
+                },
+                {
+                    "fromNode": 163120498,
+                    "ID": 423308351,
+                    "toNode": 325073823,
+                    "isForward": true
+                },
+                {
+                    "fromNode": 325073823,
+                    "ID": 423308352,
+                    "toNode": 277958527,
+                    "isForward": true
+                },
+                {
+                    "fromNode": 277958527,
+                    "ID": 350970527,
+                    "toNode": 163120198,
+                    "isForward": true
+                },
+                {
+                    "fromNode": 163120198,
+                    "ID": 162786812,
+                    "toNode": 163120252,
+                    "isForward": true
+                },
+                {
+                    "fromNode": 163120252,
+                    "ID": 162786813,
+                    "toNode": 151086996,
+                    "isForward": true
+                },
+                {
+                    "fromNode": 151086996,
+                    "ID": 162787223,
+                    "toNode": 163120404,
+                    "isForward": true
+                },
+                {
+                    "fromNode": 163120404,
+                    "ID": 162787224,
+                    "toNode": 163120306,
+                    "isForward": true
+                },
+                {
+                    "fromNode": 163120306,
+                    "ID": 318381584,
+                    "toNode": 257585276,
+                    "isForward": true
+                },
+                {
+                    "fromNode": 257585276,
+                    "ID": 375334635,
+                    "toNode": 293655298,
+                    "isForward": true
+                },
+                {
+                    "fromNode": 293655298,
+                    "ID": 375334636,
+                    "toNode": 163120382,
+                    "isForward": true
+                },
+                {
+                    "fromNode": 163120382,
+                    "ID": 373518632,
+                    "toNode": 292483314,
+                    "isForward": false
+                },
+                {
+                    "fromNode": 292483314,
+                    "ID": 373518631,
+                    "toNode": 183133356,
+                    "isForward": false
+                }
+            ],
+            "roadType": 7,
+            "delay": 188,
+            "street": "Str. Bun\u0103 Ziua",
+            "id": 1713142208,
+            "pubMillis": 1736791840064
+        },
+        {
+            "country": "RO",
+            "level": 5,
+            "city": "Cluj-Napoca",
+            "line": [
+                {
+                    "x": 23.567303,
+                    "y": 46.770481
+                },
+                {
+                    "x": 23.568502,
+                    "y": 46.769427
+                }
+            ],
+            "speedKMH": 0,
+            "length": 149,
+            "turnType": "NONE",
+            "uuid": 1150368446,
+            "endNode": "Bd. 1 Decembrie 1918",
+            "speed": 0,
+            "segments": [
+                {
+                    "fromNode": 162438513,
+                    "ID": 161053000,
+                    "toNode": 109074036,
+                    "isForward": false
+                }
+            ],
+            "blockingAlertUuid": "c3899e3f-38a6-43d6-84e2-e5b4f4786f50",
+            "roadType": 2,
+            "delay": -1,
+            "street": "Str. Sigismund Todu\u021b\u0103",
+            "id": 1150368446,
+            "pubMillis": 1736304049705
+        }
+    ]
+}

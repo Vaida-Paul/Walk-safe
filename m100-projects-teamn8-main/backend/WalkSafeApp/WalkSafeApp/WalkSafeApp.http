@@ -1,0 +1,6 @@
+@WalkSafeApp_HostAddress = http://localhost:5206
+
+GET {{WalkSafeApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

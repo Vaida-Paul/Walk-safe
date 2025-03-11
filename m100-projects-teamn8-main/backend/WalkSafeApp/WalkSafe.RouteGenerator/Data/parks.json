@@ -1,0 +1,913 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "id": "4134073486",
+      "type": "Feature",
+      "properties": { "name": "Gr\u0103dina japonez\u0103" },
+      "geometry": { "type": "Point", "coordinates": [23.5875593, 46.7613916] }
+    },
+    {
+      "id": "23893331",
+      "type": "Feature",
+      "properties": { "name": "Parcul Central Simion B\u0103rnu\u021biu" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.578141277449877, 46.769681202573445]
+      }
+    },
+    {
+      "id": "31713733",
+      "type": "Feature",
+      "properties": {
+        "name": "Parcul Sportiv Universitar \"Prof. Dr. Iuliu Ha\u021bieganu\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.559301852528673, 46.76529628275049]
+      }
+    },
+    {
+      "id": "31713734",
+      "type": "Feature",
+      "properties": { "name": "Parcul Rozelor" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.553908432766253, 46.76446521763234]
+      }
+    },
+    {
+      "id": "41182563",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.559428280593966, 46.7687865146113]
+      }
+    },
+    {
+      "id": "42464091",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.62086161529658, 46.77081437396617]
+      }
+    },
+    {
+      "id": "42464850",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.61498765057765, 46.77749691576011]
+      }
+    },
+    {
+      "id": "43281210",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.57553180789187, 46.7822075958945]
+      }
+    },
+    {
+      "id": "59837544",
+      "type": "Feature",
+      "properties": { "name": "Pia\u021ba 14 Iulie" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.5664898193217, 46.77047835937659]
+      }
+    },
+    {
+      "id": "86473022",
+      "type": "Feature",
+      "properties": { "name": "Parcul Colina" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.539519218614345, 46.753511703669055]
+      }
+    },
+    {
+      "id": "87639740",
+      "type": "Feature",
+      "properties": { "name": "Parcul Detunata" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.626911250510695, 46.7648749819624]
+      }
+    },
+    {
+      "id": "91887451",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.550348215228304, 46.76584346402359]
+      }
+    },
+    {
+      "id": "107995181",
+      "type": "Feature",
+      "properties": { "name": "Gr\u0103dina Mik\u00f3" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.58001715372817, 46.76432433345457]
+      }
+    },
+    {
+      "id": "122229787",
+      "type": "Feature",
+      "properties": { "name": "Parcul Prim\u0103verii" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.55745665285302, 46.75792981360579]
+      }
+    },
+    {
+      "id": "122230727",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.557669169865456, 46.75912661093488]
+      }
+    },
+    {
+      "id": "136605351",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.636685777610403, 46.78251010617338]
+      }
+    },
+    {
+      "id": "179900217",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.61816054395239, 46.773159065026576]
+      }
+    },
+    {
+      "id": "186956530",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.60789658006633, 46.776926623454386]
+      }
+    },
+    {
+      "id": "202405288",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.576665804079514, 46.75510086175739]
+      }
+    },
+    {
+      "id": "207290279",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.47553825653604, 46.73593719120249]
+      }
+    },
+    {
+      "id": "224493490",
+      "type": "Feature",
+      "properties": { "name": "Parcul Farmec" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.606771963942418, 46.780665971134596]
+      }
+    },
+    {
+      "id": "227338612",
+      "type": "Feature",
+      "properties": { "name": "Parcul Ion Luca Caragiale" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.586736987863397, 46.772448202482416]
+      }
+    },
+    {
+      "id": "243171938",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.621783620134007, 46.76798558183836]
+      }
+    },
+    {
+      "id": "243413685",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.634973909345774, 46.77445041214272]
+      }
+    },
+    {
+      "id": "277512874",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.622300075480904, 46.76999009781716]
+      }
+    },
+    {
+      "id": "310399987",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.55403757140802, 46.769921758252664]
+      }
+    },
+    {
+      "id": "334163290",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.60176543375793, 46.767631809896]
+      }
+    },
+    {
+      "id": "338122259",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.40149000361501, 46.80216799082486]
+      }
+    },
+    {
+      "id": "348015449",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.608729564483294, 46.775112393931856]
+      }
+    },
+    {
+      "id": "352855945",
+      "type": "Feature",
+      "properties": { "name": "Parcul Iuliu Prodan" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.57311345546951, 46.75769312613116]
+      }
+    },
+    {
+      "id": "363397204",
+      "type": "Feature",
+      "properties": { "name": "Parcul Narciselor" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.596415474933977, 46.76189846024376]
+      }
+    },
+    {
+      "id": "363472287",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.600041517251388, 46.76729504757673]
+      }
+    },
+    {
+      "id": "384831217",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.474267057353998, 46.7360463216075]
+      }
+    },
+    {
+      "id": "384831218",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.474903837119392, 46.73599046153232]
+      }
+    },
+    {
+      "id": "384831219",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.476221061038324, 46.73535188130048]
+      }
+    },
+    {
+      "id": "384831220",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.476769754361882, 46.73583173049963]
+      }
+    },
+    {
+      "id": "384831221",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.47478265409556, 46.73549131945203]
+      }
+    },
+    {
+      "id": "384831224",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.477387256803883, 46.73577919499839]
+      }
+    },
+    {
+      "id": "384831228",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.482900752957892, 46.740739564090944]
+      }
+    },
+    {
+      "id": "411587234",
+      "type": "Feature",
+      "properties": { "name": "Pia\u021ba Ion Ag\u00e2rbiceanu" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.60627840519834, 46.76177088597199]
+      }
+    },
+    {
+      "id": "453943831",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.532146433831194, 46.747152874725344]
+      }
+    },
+    {
+      "id": "453945912",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.607001956619705, 46.76195117916845]
+      }
+    },
+    {
+      "id": "453945922",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.581883152719943, 46.77523408659843]
+      }
+    },
+    {
+      "id": "453945924",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.574537150093562, 46.76761973930593]
+      }
+    },
+    {
+      "id": "463952699",
+      "type": "Feature",
+      "properties": { "name": "Parc Junior Residence" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.61131038766628, 46.79405886728845]
+      }
+    },
+    {
+      "id": "468471389",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.563809826370292, 46.77177623924678]
+      }
+    },
+    {
+      "id": "468471393",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.56320203333333, 46.771393066666676]
+      }
+    },
+    {
+      "id": "468471395",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.56310032684736, 46.77159762062355]
+      }
+    },
+    {
+      "id": "468471396",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.562649051057168, 46.77172576759792]
+      }
+    },
+    {
+      "id": "469263519",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.61197591938145, 46.779171405102]
+      }
+    },
+    {
+      "id": "469263975",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.61269480181153, 46.779389049292824]
+      }
+    },
+    {
+      "id": "469264778",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.54410364470702, 46.75289289061568]
+      }
+    },
+    {
+      "id": "469505253",
+      "type": "Feature",
+      "properties": { "name": "Parcul Aurel Vlaicu" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.631725828963287, 46.78159638183413]
+      }
+    },
+    {
+      "id": "469516114",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.627954574979288, 46.7837737354241]
+      }
+    },
+    {
+      "id": "469783140",
+      "type": "Feature",
+      "properties": { "name": "La Barier\u0103" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.624622453506674, 46.78419606640592]
+      }
+    },
+    {
+      "id": "492927147",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.627233257360714, 46.782617229357804]
+      }
+    },
+    {
+      "id": "510529082",
+      "type": "Feature",
+      "properties": { "name": "Cimitirul Israelit" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.592502722887183, 46.75186525241419]
+      }
+    },
+    {
+      "id": "525648807",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.611664880026748, 46.7787274664579]
+      }
+    },
+    {
+      "id": "525824841",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.61139383679289, 46.778728283834674]
+      }
+    },
+    {
+      "id": "526796710",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.611261933333335, 46.77908106666666]
+      }
+    },
+    {
+      "id": "554275977",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.612277794023164, 46.77871546867525]
+      }
+    },
+    {
+      "id": "555165047",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.54445488696257, 46.752897457620946]
+      }
+    },
+    {
+      "id": "555165772",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.612692793153656, 46.774583910625395]
+      }
+    },
+    {
+      "id": "555954367",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.612204305125616, 46.77884661491891]
+      }
+    },
+    {
+      "id": "555956461",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.613213752085315, 46.77890475131181]
+      }
+    },
+    {
+      "id": "556085165",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.60011659404294, 46.76969554292696]
+      }
+    },
+    {
+      "id": "556790731",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.614385658854808, 46.77977478586297]
+      }
+    },
+    {
+      "id": "561026592",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.597533987745383, 46.773818966468916]
+      }
+    },
+    {
+      "id": "577683581",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.611856166918958, 46.77957431644573]
+      }
+    },
+    {
+      "id": "577683582",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.612406394799507, 46.77921072360031]
+      }
+    },
+    {
+      "id": "577683583",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.61301442322955, 46.778873175637294]
+      }
+    },
+    {
+      "id": "585381076",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.61317248864978, 46.77950356190449]
+      }
+    },
+    {
+      "id": "585381078",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.613568775905232, 46.77953375251227]
+      }
+    },
+    {
+      "id": "607483832",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.56744338742048, 46.77076575536671]
+      }
+    },
+    {
+      "id": "610770962",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.47772471773316, 46.73521054632544]
+      }
+    },
+    {
+      "id": "632741238",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.484033280551277, 46.744093981301035]
+      }
+    },
+    {
+      "id": "677675854",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.73601177042345, 46.682046145859815]
+      }
+    },
+    {
+      "id": "681747340",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.7379689694712, 46.68299058786775]
+      }
+    },
+    {
+      "id": "690722040",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.598014606241836, 46.7608637279876]
+      }
+    },
+    {
+      "id": "690827757",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.52845260890183, 46.764846467108626]
+      }
+    },
+    {
+      "id": "709103534",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.484440274140468, 46.72842377476455]
+      }
+    },
+    {
+      "id": "796870625",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.590499967691994, 46.74455845212593]
+      }
+    },
+    {
+      "id": "807318773",
+      "type": "Feature",
+      "properties": { "name": "Parcul \u00centre Lacuri" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.633238992878237, 46.778833679462586]
+      }
+    },
+    {
+      "id": "808147906",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.527220914240253, 46.75001591928777]
+      }
+    },
+    {
+      "id": "840984171",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.547415748080912, 46.753289608905156]
+      }
+    },
+    {
+      "id": "853328553",
+      "type": "Feature",
+      "properties": { "name": "Centrul Educational JOACA" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.708289776433794, 46.70796394809254]
+      }
+    },
+    {
+      "id": "853366525",
+      "type": "Feature",
+      "properties": { "name": "Parcul Tineretului" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.65293893399868, 46.8001399123111]
+      }
+    },
+    {
+      "id": "926231730",
+      "type": "Feature",
+      "properties": { "name": "Pia\u021ba Karl Liebknecht" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.599077309831294, 46.791966176289094]
+      }
+    },
+    {
+      "id": "951914926",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.606711064191025, 46.772831042413415]
+      }
+    },
+    {
+      "id": "967551342",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.9121098, 46.69824383333334]
+      }
+    },
+    {
+      "id": "971645016",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.609594800362075, 46.783273015448316]
+      }
+    },
+    {
+      "id": "971789653",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.80799015104235, 46.9095196225419]
+      }
+    },
+    {
+      "id": "980091998",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.487139203265308, 46.72921172760156]
+      }
+    },
+    {
+      "id": "1010216622",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.529607773775734, 46.7487833202863]
+      }
+    },
+    {
+      "id": "1038677772",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.584386566972142, 46.760112971756776]
+      }
+    },
+    {
+      "id": "1039256234",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.616711141952138, 46.77898668528148]
+      }
+    },
+    {
+      "id": "1063988890",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.456218911768214, 46.67600216166237]
+      }
+    },
+    {
+      "id": "1069835905",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.61949162959805, 46.779824746147014]
+      }
+    },
+    {
+      "id": "1084578481",
+      "type": "Feature",
+      "properties": { "name": "Parcul Poligon" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.50185456957472, 46.74205141071155]
+      }
+    },
+    {
+      "id": "7096289",
+      "type": "Feature",
+      "properties": { "name": null },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.627509512384574, 46.78392327688752]
+      }
+    },
+    {
+      "id": "11764022",
+      "type": "Feature",
+      "properties": { "name": "Iulius Parc" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.625225739758445, 46.773290487666266]
+      }
+    }
+  ]
+}
